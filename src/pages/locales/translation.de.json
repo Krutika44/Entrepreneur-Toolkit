@@ -1,0 +1,345 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "blogs": "Blogs",
+    "elearning": "E-Learning",
+    "businessPlanGenerator": "Geschäftsplan-Generator",
+    "brandText": "Unternehmer-Toolkit",
+    "darkMode": "Dunkler Modus",
+    "welcome": "Willkommen",
+    "signOut": "Abmelden"
+  },
+  "homepage": {
+    "welcome": "Willkommen bei ",
+    "welcome2": "Unternehmer-Toolkit",
+    "slogan": "Wo Ideen gedeihen und Werkzeuge stärken.",
+    "getStarted": "Loslegen!",
+    "features": "Entdecken Sie unsere Funktionen",
+    "featuresHeading": "Entdecken Sie unsere ",
+    "featuresHeading2": "Funktionen",
+    "blogs": {
+      "title": "Blogs",
+      "description": "Erkunden Sie informative Artikel und bleiben Sie über die neuesten Trends auf dem Laufenden. Lassen Sie sich durch Erfolgsgeschichten von Unternehmern motivieren. Sie können auch Ihren eigenen Blogbeitrag verfassen, um andere zu inspirieren."
+    },
+    "businessPlanGenerator": {
+      "title": "Geschäftsplan-Generator",
+      "description": "Erstellen Sie professionelle Geschäftspläne, die auf Ihre Bedürfnisse zugeschnitten sind. Geben Sie einfach Informationen zu Ihrem Unternehmen wie Ziele, Zielgruppe und Produkte/Dienstleistungen an, und wir erstellen einen maßgeschneiderten Plan für Sie. Sie können den Plan auch mit Farben und Schriftarten anpassen."
+    },
+    "elearning": {
+      "title": "E-Learning",
+      "description": "Greifen Sie auf unsere umfassende Online-Lernplattform zur Kompetenzentwicklung zu. Lernen Sie Schritt für Schritt, wie Sie Ihr eigenes Unternehmen aufbauen und ausbauen. Unsere Kurse behandeln verschiedene Themen wie Unternehmertum, Marketing, Finanzen und mehr."
+    },
+    "aboutUs": "Über uns",
+    "aboutUsHeading": "Erfahren Sie mehr über ",
+    "aboutUsHeading2": "uns",
+    "aboutUsContent": "Befähigen Sie angehende Unternehmer, erfolgreich zu sein, mit umfassenden Werkzeugen und Ressourcen. Unsere Plattform bietet Zugang zu Expertenrat, interaktiven Workshops und persönlicher Unterstützung und ermöglicht es Unternehmern, das Wissen und die Fähigkeiten zu erlangen, die sie benötigen, um die Herausforderungen bei der Gründung und Entwicklung eines Unternehmens zu meistern.",
+    "aboutUsContent2": "Fördern Sie Innovation, Kreativität und Zusammenarbeit innerhalb unserer Community. Wir glauben an die Kraft der Zusammenarbeit und des Wissensaustauschs. Unsere Plattform erleichtert Networking-Möglichkeiten, Ideenaustauschforen und gemeinsame Projekte und schafft ein dynamisches Ökosystem, in dem Unternehmer voneinander lernen und gemeinsam erfolgreich sind.",
+    "aboutUsContent3": "Engagiertes Team, das sich für positive Veränderungen durch Unternehmertum einsetzt. Unser Team besteht aus erfahrenen Fachleuten, die sich leidenschaftlich dafür einsetzen, Unternehmer auf ihrem Weg zum Erfolg zu unterstützen. Wir sind bestrebt, außergewöhnlichen Service, maßgeschneiderte Beratung und kontinuierliche Verbesserung zu bieten, um sicherzustellen, dass unsere Plattform den sich wandelnden Bedürfnissen unserer Benutzer gerecht wird.",
+    "contactUs": "Kontaktiere uns"
+  },
+  "contact": {
+    "contact": "Kontaktformular",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "phoneNumber": "Telefonnummer",
+    "email": "E-Mail-Adresse",
+    "enterFirstName": "Geben Sie Ihren Vornamen ein",
+    "enterLastName": "Geben Sie Ihren Nachnamen ein",
+    "enterPhoneNumber": "Geben Sie Ihre Telefonnummer ein",
+    "enterEmail": "Geben Sie Ihre E-Mail-Adresse ein",
+    "enterQuery": "Geben Sie Ihre Anfrage ein",
+    "enterYourQuery": "Geben Sie hier Ihre Anfrage ein...",
+    "submit": "Einreichen",
+    "dataStored": "Daten gespeichert!",
+    "storeDataFailed": "Speichern der Daten fehlgeschlagen.",
+    "fillAllFields": "Bitte füllen Sie alle Felder aus."
+  },
+  "aboutPage": {
+    "aboutUsHeading": "Über uns",
+    "businessPlanTitle": "Geschäftsplan",
+    "businessPlanDescription": "Ihr Leitfaden zum Erfolg. Entwickeln Sie einen umfassenden Geschäftsplan, um Ihre unternehmerische Reise zu steuern. Ihr Geschäftsplan sollte Abschnitte wie Zusammenfassung, Marktanalyse, Geschäftsmodell, Marketingstrategie, finanzielle Prognosen und mehr enthalten. Denken Sie daran, dass ein gut ausgearbeiteter Geschäftsplan Ihnen dabei helfen wird, Investoren anzuziehen, Finanzierungen zu sichern und sich auf Ihre Ziele zu konzentrieren.",
+    "missionTitle": "Mission",
+    "missionDescription": "Unsere Mission ist es, Unternehmer zu befähigen, indem wir ihnen die Werkzeuge, Ressourcen und Unterstützung zur Verfügung stellen, die sie benötigen, um ihre Ideen in erfolgreiche Unternehmen umzusetzen. Wir glauben daran, Innovation, Kreativität und Zusammenarbeit zu fördern, um positive Veränderungen in der Welt durch Unternehmertum voranzutreiben. Begleiten Sie uns auf unserer Mission, die nächste Generation visionärer Unternehmer und Veränderer zu befähigen.",
+    "visionTitle": "Vision",
+    "visionDescription": "Unsere Vision ist es, ein lebendiges Ökosystem zu schaffen, in dem jeder Unternehmer die Möglichkeit hat, zu gedeihen und erfolgreich zu sein. Wir stellen uns eine Welt vor, in der Unternehmertum gefeiert, unterstützt und für alle zugänglich ist, unabhängig von Hintergrund oder Umständen. Gemeinsam bauen wir eine Zukunft auf, in der Unternehmertum ein Katalysator für positive Veränderungen und nachhaltiges Wachstum ist."
+  },
+  "elearning": {
+    "title": "E-Lernen",
+    "videoCountLabel": "Videos",
+    "videosLabel": "Videos",
+    "sections": {
+      "section1": {
+        "title": "Planen",
+        "description": "Lernen Sie, wie Sie Ihre Geschäftsstrategie planen.",
+        "videos": {
+          "video1": {
+            "title": "Wie man einen Geschäftsplan schreibt",
+            "duration": "(0 Minuten 31 Sekunden)"
+          },
+          "video2": {
+            "title": "Beginnen Sie Ihren Plan",
+            "duration": "(0 Minuten 34 Sekunden)"
+          },
+          "video3": {
+            "title": "Geschäftsplan-Blaupause",
+            "duration": "(0 Minuten 38 Sekunden)"
+          },
+          "video4": {
+            "title": "Bestandteile eines Plans",
+            "duration": "(0 Minuten 17 Sekunden)"
+          },
+          "video5": {
+            "title": "Ihre Zielgruppe",
+            "duration": "(1 Minute 56 Sekunden)"
+          },
+          "video6": {
+            "title": "Arten von Geschäftsplänen",
+            "duration": "(1 Minute 28 Sekunden)"
+          },
+          "video7": {
+            "title": "Eine Größe passt nicht für alle",
+            "duration": "(6 Minuten 39 Sekunden)"
+          },
+          "video8": {
+            "title": "Erstellen Ihres Plans",
+            "duration": "(0 Minuten 50 Sekunden)"
+          },
+          "video9": {
+            "title": "Fragen zum Geschäftsplan",
+            "duration": "(0 Minuten 29 Sekunden)"
+          },
+          "video10": {
+            "title": "Beschreibungen Ihres Unternehmens",
+            "duration": "(03 Minuten 57 Sekunden)"
+          }
+        }
+      },
+      "section2": {
+        "title": "Start",
+        "description": "Entdecken Sie die wichtigsten Schritte für einen erfolgreichen Produktstart.",
+        "videos": {
+          "video11": {
+            "title": "Finanzierung Ihres Unternehmens",
+            "duration": "(1 Minute 14 Sekunden)"
+          },
+          "video12": {
+            "title": "Ihre finanziellen Bedürfnisse",
+            "duration": "(1 Minute 39 Sekunden)"
+          },
+          "video13": {
+            "title": "Schätzung der Startkosten",
+            "duration": "(2 Minuten 55 Sekunden)"
+          },
+          "video14": {
+            "title": "Darlehen",
+            "duration": "(4 Minuten 37 Sekunden)"
+          },
+          "video15": {
+            "title": "Crowdfunding",
+            "duration": "(1 Minute 31 Sekunden)"
+          }
+        }
+      },
+      "section3": {
+        "title": "Verwalten",
+        "description": "Erkunden Sie effektive Managementtechniken.",
+        "videos": {
+          "video16": {
+            "title": "Übersicht über Ihre Kunden verstehen",
+            "duration": "(1 Minute 50 Sekunden)"
+          },
+          "video17": {
+            "title": "Identifizierung von Kunden und ihren Bedürfnissen",
+            "duration": "(0 Minuten 23 Sekunden)"
+          },
+          "video18": {
+            "title": "Marktforschungsdaten",
+            "duration": "(2 Minuten 18 Sekunden)"
+          },
+          "video19": {
+            "title": "Kundenerlebnisse verfolgen",
+            "duration": "(1 Minute 34 Sekunden)"
+          },
+          "video20": {
+            "title": "Kundenabsicht verstehen",
+            "duration": "(2 Minuten 37 Sekunden)"
+          },
+          "video21": {
+            "title": "Verkaufsplanung",
+            "duration": "(1 Minute 59 Sekunden)"
+          }
+        }
+      },
+      "section4": {
+        "title": "Markt",
+        "description": "Lernen Sie Marketingstrategien und -taktiken kennen.",
+        "videos": {
+          "video22": {
+            "title": "Überblick über Marktforschung",
+            "duration": "(2 Minuten 0 Sekunden)"
+          },
+          "video23": {
+            "title": "Vorteile der Marktforschung",
+            "duration": "(0 Minuten 51 Sekunden)"
+          },
+          "video24": {
+            "title": "Marktforschung verstehen",
+            "duration": "(2 Minuten 57 Sekunden)"
+          },
+          "video25": {
+            "title": "Fragebogen erstellen",
+            "duration": "(0 Minuten 57 Sekunden)"
+          },
+          "video26": {
+            "title": "Datenanalyse",
+            "duration": "(2 Minuten 38 Sekunden)"
+          },
+          "video27": {
+            "title": "Marketingplan",
+            "duration": "(0 Minuten 40 Sekunden)"
+          },
+          "video28": {
+            "title": "Verwendung von Social Media",
+            "duration": "(2 Minuten 09 Sekunden)"
+          }
+        }
+      },
+      "section5": {
+        "title": "Wachsen",
+        "description": "Strategien zur Skalierung und zum Wachstum Ihres Unternehmens.",
+        "videos": {
+          "video29": {
+            "title": "Investoren finden und gewinnen",
+            "duration": "(1 Minute 43 Sekunden)"
+          },
+          "video30": {
+            "title": "Externe Finanzierung",
+            "duration": "(0 Minuten 55 Sekunden)"
+          },
+          "video31": {
+            "title": "Investoren",
+            "duration": "(3 Minuten 18 Sekunden)"
+          },
+          "video32": {
+            "title": "Investitionsprozess",
+            "duration": "(1 Minute 04 Sekunden)"
+          },
+          "video33": {
+            "title": "Crowdfunding für Eigenkapital",
+            "duration": "(1 Minute 03 Sekunden)"
+          },
+          "video34": {
+            "title": "Einführung in die Preisgestaltung",
+            "duration": "(1 Minute 32 Sekunden)"
+          },
+          "video35": {
+            "title": "Ihr Preismodell",
+            "duration": "(1 Minute 22 Sekunden)"
+          }
+        }
+      }
+    }
+  },
+  "videoList": {
+    "noSectionData": "Keine Abschnittdaten verfügbar.",
+    "totalVideos": "Gesamtvideos"
+  },
+  "videoPlayer": {
+    "title": "Feedback-Formular",
+    "rateSection": "Bewerten Sie diesen Abschnitt:",
+    "feedback": "Feedback:",
+    "enterFeedback": "Geben Sie Ihr Feedback ein",
+    "close": "Schließen",
+    "submitFeedback": "Feedback senden",
+    "giveFeedback": "Feedback geben",
+    "thankYouFeedback": "Vielen Dank für Ihr Feedback!",
+    "noVideoFound": "Kein Video gefunden.",
+    "duration": "Dauer",
+    "previous": "Vorherige",
+    "next": "Nächste"
+  },
+  "businessPlanGenerator": {
+    "title": "Geschäftsplan-Generator",
+    "executiveSummary": "Executive-Zusammenfassung",
+    "companyName": "Firmenname",
+    "productsAndServices": "Produkte und Dienstleistungen",
+    "managementTeam": "Management-Team",
+    "marketingAnalysis": "Marketinganalyse",
+    "financialPlan": "Finanzplan",
+    "operationalPlan": "Betriebsplan",
+    "selectFont": "Schriftart auswählen",
+    "generatePlan": "Geschäftsplan generieren",
+    "placeholder": "Bitte geben Sie {{fieldName}} ein"
+  },
+  "colors": {
+    "mainCardColor": "Hauptkartenfarbe: ",
+    "otherCardColor": "Andere Kartenfarbe: "
+  },
+  "generatedPlan": {
+    "businessPlan": "Geschäftsplan",
+    "executiveSummary": "Executive-Zusammenfassung",
+    "companyName": "Firmenname",
+    "productsServices": "Produkte und Dienstleistungen",
+    "managementTeam": "Management-Team",
+    "marketingAnalysis": "Marketinganalyse",
+    "FinancialPlan": "Finanzplan",
+    "operationalPlan": "Betriebsplan",
+    "alertMessage": "PDF erfolgreich heruntergeladen!",
+    "downloadButton": "PDF herunterladen"
+  },
+  "blogPage": {
+    "title": "Werkzeugkasten des Unternehmers",
+    "welcome": "Willkommen bei ",
+    "blogPage": "Unsere Blog-Seite",
+    "toolkit": "Werkzeugkasten des Unternehmers",
+    "ultimate": "Das ultimative, ",
+    "guide": "Ihr Leitfaden zum Erfolg im Geschäft",
+    "resource": "Ihre Anlaufstelle für die Navigation, Strategie und Erfolg im Geschäft.",
+    "companion": "Ihr unverzichtbarer Begleiter für unternehmerisches Wachstum, strategische Planung und geschäftlichen Triumph.",
+    "blogs": {
+      "b": "Indische Startups und ihre Unternehmer",
+      "span": "\"Erfolgsgeschichten auf Abruf\"",
+      "blog1": {
+        "bold": "Werkzeugkasten des Unternehmers",
+        "p": "umfasst wesentliche Elemente, um ein umfassendes und benutzerzentriertes Erlebnis auf unserer Website zu fördern. Mit einem reaktionsfähigen Chatbot im Mittelpunkt erhalten Benutzer sofortige Unterstützung und Anleitung, um ihre Navigation zu verbessern. Die Integration eines Sprachübersetzers stellt sicher, dass ein globales Publikum nahtlos auf unsere Inhalte zugreifen kann und sprachliche Barrieren überwindet. Ergänzend dazu bieten unsere Bildungsressourcen im Toolkit den Benutzern wertvolle Einblicke und Lernmöglichkeiten, um ihre Interaktion mit unserer Plattform zu bereichern. Im Wesentlichen bildet der Werkzeugkasten des Unternehmers das Rückgrat unserer Verpflichtung, eine interaktive, informative und global zugängliche Online-Umgebung bereitzustellen."
+      },
+      "blog2": {
+        "bold": "Aman Gupta",
+        "p": "ist in der Tat einer der Gründer von boAt Lifestyle, einer Marke für Unterhaltungselektronik, die hauptsächlich für ihre Audioprodukte wie Ohrhörer, Kopfhörer, Lautsprecher und tragbare Geräte bekannt ist. Zusammen mit Mitbegründer Sameer Mehta gründete Aman Gupta boAt im Jahr 2015. boAt hat in Indien und im Ausland erhebliche Popularität für seine stilvollen und erschwinglichen Audiozubehörteile erlangt. Die Marke hat die wachsende Nachfrage nach qualitativ hochwertigen Audioprodukten, insbesondere bei der jugendlichen Zielgruppe, genutzt. Unter der Leitung von Aman Gupta hat boAt sein Produktsortiment und seine Marktpräsenz erweitert und sich zu einer der führenden Audio-Marken in Indien entwickelt. Das Unternehmen hat auch verschiedene Marketinginitiativen, einschließlich Partnerschaften mit Prominenten und Influencern, durchgeführt, um die Sichtbarkeit der Marke weiter zu verbessern."
+      },
+      "blog3": {
+        "bold": "Vijay Shekhar Sharma",
+        "p": "ist der Gründer von Paytm. Er gründete Paytm (ursprünglich \"Pay Through Mobile\") im Jahr 2010. Paytm begann als Plattform für mobile Aufladungen und die Bezahlung von Versorgungsrechnungen, erweiterte sich jedoch später zu einem vollwertigen Unternehmen für digitale Zahlungen und Finanzdienstleistungen. Unter der Leitung von Vijay Shekhar Sharma hat sich Paytm zu einer der führenden digitalen Zahlungsplattformen Indiens entwickelt und bietet eine Vielzahl von Diensten an, darunter mobile Aufladungen, Rechnungszahlungen, Online-Shopping, Ticketbuchungen, Vermögensverwaltung und Bankdienstleistungen über seine Tochtergesellschaft Paytm Payments Bank. Vijay Shekhar Sharmas Vision und unternehmerischer Geist waren entscheidend für den Erfolg von Paytm und dessen Entwicklung zu einem vielseitigen Finanztechnologie-Riesen in Indien."
+      },
+      "blog4": {
+        "bold": "Vidit Aatrey",
+        "p": "ist ein indischer Unternehmer und Mitbegründer von Meesho, einer Plattform für sozialen Handel. Er absolvierte sein Studium an der Indian Institute of Technology (IIT) Delhi mit einem Abschluss in Elektrotechnik. Bevor er Meesho im Jahr 2015 gründete, arbeitete Aatrey als Softwareentwicklungsingenieur bei InMobi, einem globalen Unternehmen für mobile Werbetechnologie. Als Mitbegründer und CEO von Meesho hat Vidit Aatrey eine entscheidende Rolle bei der Gestaltung des Wachstums und der Strategie des Unternehmens gespielt. Meesho ist eine der führenden Plattformen für sozialen Handel in Indien geworden und ermöglicht Millionen von Kleinunternehmen und Einzelpersonen, ihre Online-Shops zu eröffnen und Produkte über soziale Medienplattformen zu verkaufen. Unter Aatreys Führung hat Meesho erhebliche Finanzmittel von prominenten Investoren erhalten und seine Nutzerbasis und sein Produktangebot erweitert. Seine unternehmerische Reise und Vision für Meesho haben in Indiens Startup-Ökosystem Aufmerksamkeit erregt, und er setzt weiterhin auf Innovation und Wachstum im Unternehmen."
+      },
+      "blog5": {
+        "bold": "Bhavish Agarwal",
+        "p": "ist ein indischer Unternehmer und Mitbegründer von Ola, einem der führenden Fahrdienstvermittler in Indien. Er wurde am 28. August 1985 in Ludhiana, Punjab, Indien, geboren. Bhavish Aggarwal gründete Ola im Dezember 2010 zusammen mit Ankit Bhati. Unter der Leitung von Bhavish Aggarwal hat sich Ola zu einem wichtigen Akteur im Bereich Transport und Mobilität in Indien entwickelt. Ola bietet eine Vielzahl von Dienstleistungen an, darunter die Buchung von Taxis, Auto-Rickshaws, Bike-Sharing und mehr. Das Unternehmen hat seine Aktivitäten nicht nur in Indien, sondern auch in verschiedenen internationalen Märkten ausgeweitet. Bhavish Aggarwal ist bekannt für seine unternehmerische Vision und seine Bemühungen, die Art und Weise zu verändern, wie Menschen in Indien pendeln. Er hat eine entscheidende Rolle bei der Gestaltung von Olas Strategie gespielt und seine Dienstleistungen ausgebaut, um unterschiedliche Transportbedürfnisse zu erfüllen. Bis zu meinem letzten Kenntnisstand im Januar 2022 fungiert Bhavish Aggarwal weiterhin als CEO von Ola."
+      },
+      "blog6": {
+        "bold": "Aadithyan Rajesh",
+        "p": "ein weiterer jugendlicher indischer Geschäftsmann, hat seine denkwürdigste mobile Anwendung im Alter von neun Jahren erstellt. Er pflegte Logos und Website-Schnittstellen als Hobby zu erstellen, bevor er seine Firma, Trinet Solutions, gründete. Allmählich begann er zu codieren und Spiele zu veröffentlichen, und er machte seine denkwürdigste Programmierung, 'Ashirwad', das ein Internetbrowser ähnlich wie Google Chrome ist. Die Anwendung wurde in Android Studio erstellt und im Aptoide-Store veröffentlicht. Rajesh ist auch ein erfolgreicher YouTuber und betreibt seine eigene IT-Firma. Er betreibt den Kanal 'A Craze', auf dem er Video-Blogs zu Technologie, Codierung, Spielen und Webdesign veröffentlicht."
+      }
+    }
+  },
+  "footer": {
+    "toolkit": "Werkzeugkasten des Unternehmers",
+    "resource": "Ihr unverzichtbarer Werkzeugkasten für Erfolg im Geschäft und Innovation. Navigieren Sie durch die Welt des Unternehmertums mit unserem umfassenden Werkzeugkasten, der Ihnen zur Verfügung steht.",
+    "quickLinks": "Schnellzugriff",
+    "aboutUs": "Über uns",
+    "contactUs": "Kontaktiere uns",
+    "blogs": "Blogs",
+    "contactInfo": "Kontaktiere uns",
+    "phoneNumber": "9769521161",
+    "email": "siddhiauti123@gmail.com",
+    "location": "Mumbai",
+    "businessForums": "Geschäftsforen",
+    "entrepreneurSubreddit": "Unternehmer-Subreddit",
+    "smallBusinessForums": "Foren für Kleinunternehmen",
+    "warriorForum": "Kriegerforum"
+  }
+}

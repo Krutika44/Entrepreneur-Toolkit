@@ -1,0 +1,229 @@
+.hd-image-container {
+  margin-top: 3%;
+  width: 100%;
+  overflow: hidden;
+  background-color: #e9f5ff;
+}
+
+.hd-image {
+  float: right;
+  margin-right: 7%;
+  width: 90%;
+  height: 90%;
+  min-height: 50vh;
+  object-fit: cover;
+  margin-top: 9%;
+}
+
+.welcome-text h1 {
+  font-size: 2.3rem;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-weight: bolder;
+  font-family: cursive;
+  margin-top: 30%;
+}
+
+.welcome-text {
+  display: flex;
+  flex-direction: column; /* Align items vertically */
+}
+
+.hslogan {
+  color: black;
+  font-size: 1.5rem; /* Adjust font size as needed */
+}
+
+/* Define the initial and popped-up font sizes */
+.welcome-text h1,
+.hslogan {
+  opacity: 0; /* Start with opacity 0 */
+  animation: popUp 1s ease forwards; /* Apply the pop-up animation */
+}
+
+@keyframes popUp {
+  0% {
+    opacity: 0; /* Start opacity */
+    transform: scale(0.5); /* Start scale */
+  }
+  100% {
+    opacity: 1; /* End opacity */
+    transform: scale(1); /* End scale */
+  }
+}
+
+.get-startedbtn {
+  background-color: #007880;
+  color: white;
+  height: 45px;
+  width: 180px;
+  border: none;
+  border-radius: 7px;
+}
+.get-startedbtn:hover {
+  background-color: rgb(70, 143, 148);
+}
+
+/* Home.css */
+
+/* Previous arrow */
+.slick-prev {
+  background-color: #007880;
+  border-radius: 50%;
+  z-index: 1;
+  position: absolute;
+  left: 10px;
+}
+
+/* Next arrow */
+.slick-next {
+  background-color: #007880;
+  border-radius: 50%;
+  z-index: 1;
+  position: absolute;
+  right: 10px;
+}
+
+.slick-next:hover,
+.slick-prev:hover {
+  background-color: rgb(70, 143, 148);
+}
+
+.slick-dots {
+  position: absolute;
+  bottom: 10px; /* Adjust the distance from the bottom as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1; /* Ensure the dots are above other elements */
+}
+
+.slick-dots li {
+  margin: 0; /* Adjust the spacing between dots */
+}
+
+.slick-dots li.slick-active button {
+  color: #007880; /* Change the color of the active dot */
+}
+
+.hicons {
+  color: #0499a3;
+  margin-bottom: 8%;
+}
+
+.home-card {
+  position: relative;
+}
+
+.home-card::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 0;
+  background-color: rgb(105, 190, 196, 0.2);
+  transition: height 0.5s ease;
+}
+
+.home-card:hover::before {
+  height: 100%;
+}
+
+.home-card .card-body {
+  transition: background-color 1s ease;
+}
+
+/* Add this CSS to your existing stylesheet */
+#features-section a {
+  text-decoration: none; /* Remove underline from all links */
+}
+
+.aimg {
+  height: 80%;
+  width: 77%;
+  margin-left: 2%;
+  margin-top: -20px;
+  border-radius: 8px;
+}
+.about-info {
+  margin-left: -140px;
+}
+
+.aicons{
+  background-color: #e9f5ff;
+  border-radius: 50%;
+font-size: 23px;
+margin-right: 10px;
+padding: 5px;
+color: #0499a3;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes popUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.about-animation {
+  animation: slideIn 4s ease forwards;
+}
+
+.about-info {
+  animation: popUp 4s ease forwards;
+}
+
+.scroll-to-top {
+  margin-left: 2%;
+  margin-bottom: 2%;
+  cursor: pointer;
+}
+.scroll-to-top i {
+  font-size: 35px; /* Adjust the font size as needed */
+  color: #0499a3;
+  border-radius: 50%;
+}
+
+.logo-generator-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out;
+  margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.logo-generator-card:hover {
+  transform: translateY(-5px);
+}
+
+.logo-generator-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #0499a3; /* Adjust color as needed */
+}
+
+.logo-generator-title {
+  color: #000;
+  font-size: 1.2rem; /* Adjust font size as needed */
+  font-weight: bold;
+}
+
+.logo-generator-description {
+  color: #7C7C7C;
+  font-size: 1rem; /* Adjust font size as needed */
+}

@@ -1,0 +1,14 @@
+.color-picker-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Adjust as needed */
+  }
+  
+  .color-picker-label {
+    margin-right: 10px; /* Adjust as needed */
+  }
+  
+  .color-picker-input {
+    width: 50px; /* Adjust as needed */
+  }
+  

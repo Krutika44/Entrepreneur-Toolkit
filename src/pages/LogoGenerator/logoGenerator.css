@@ -1,0 +1,63 @@
+.logogen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#logo-generator-container {
+  width: 100%;
+}
+
+.lgcontainer {
+  position: relative;
+}
+
+#logo-container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Apply box shadow to create a card effect */
+  padding: 20px;
+  width: 400px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  color: #333;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.inputDiv {
+  margin-bottom: 10px;
+}
+
+#controls {
+  margin-top: 20px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.footer {
+  margin-top: 20px;
+}
+
+.separator {
+  height: 100%;
+  width: 1px;
+  background-color: #000;
+  margin: 0 10px;
+}
+
+#logo-container canvas {
+  width: 80%;
+  height: 100%;
+  position: relative;
+}

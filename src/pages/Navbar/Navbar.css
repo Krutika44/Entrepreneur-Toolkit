@@ -1,0 +1,97 @@
+.navbar,
+.navbar-brand,
+.navbar-nav,
+.nav-item,
+.nav-link,
+.btn1,
+.btn2,
+.form-check-input,
+.form-check,
+.form-check-label,
+.logo,
+.logo-container,
+.navbar-light,
+.navbar-dark {
+  font-family: "David Libre", serif;
+}
+.navbar {
+  background-color: #028992;
+  padding-left: 10px;
+  color: #fff;
+  height: 50px;
+}
+
+.navbar-brand {
+  color: #fff !important;
+  font-weight: bold;
+  font-size: 15px !important;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+  color: #fff !important;
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+  font-size: 18px;
+}
+
+.btn1,
+.btn2 {
+  background-color: #6d8faa;
+  color: white;
+  border: none;
+  padding: 7px 15px;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
+.nav-link:hover {
+  background-color: rgba(
+    193,
+    230,
+    233,
+    0.2
+  ); /* Change to the desired background color on hover */
+  color: white; /* Change to the desired text color on hover */
+}
+
+.translatorDropdown .dropdown-toggle {
+  background-color: #19a2ac !important;
+  color: white !important;
+  border: none !important;
+  padding: 0.375rem 0.75rem !important;
+}
+
+.translatorDropdown .dropdown-toggle:focus {
+  background-color: #19a2ac !important;
+  color: white !important;
+  box-shadow: none !important; /* Remove the default focus shadow */
+}
+
+.translatorDropdown .dropdown-toggle:hover,
+.translatorDropdown .dropdown-toggle:focus:hover {
+  background-color: #3eb6be !important;
+}
+
+/* Styling the Dropdown menu items */
+.translatorDropdown .dropdown-menu {
+  background-color: rgba(197, 235, 238, 0.8) !important;
+  border: none !important;
+}
+
+.translatorDropdown .dropdown-item {
+  color: #333 !important;
+}
+
+.translatorDropdown .dropdown-item:hover,
+.translatorDropdown .dropdown-item:focus {
+  background-color: #70b5b9 !important;
+  color: white !important;
+}
+
+.logo-container .logo {
+  width: 60px; /* Set your desired width */
+  height: 40px; /* Set your desired height */
+}

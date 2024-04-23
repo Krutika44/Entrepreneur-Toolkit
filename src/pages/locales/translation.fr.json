@@ -1,0 +1,349 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "blogs": "Articles",
+    "elearning": "E-Learning",
+    "businessPlanGenerator": "Générateur de Plan d'Affaires",
+    "brandText": "Boîte à Outils de l'Entrepreneur",
+    "darkMode": "Mode Sombre",
+    "welcome": "Bienvenue",
+    "signOut": "Déconnexion"
+  },
+  "homepage": {
+    "welcome": "Bienvenue à ",
+    "welcome2": "Boîte à Outils de l'Entrepreneur",
+    "slogan": "Où les idées prospèrent et les outils donnent du pouvoir.",
+    "getStarted": "Commencer!",
+    "features": "Explorez Nos Fonctionnalités",
+    "featuresHeading": "Découvrez Nos ",
+    "featuresHeading2": "Fonctionnalités",
+    "blogs": {
+      "title": "Articles",
+      "description": "Explorez des articles informatifs et restez à jour sur les dernières tendances. Soyez motivé en lisant les histoires à succès des entrepreneurs. Vous pouvez également contribuer avec votre propre article pour inspirer les autres."
+    },
+    "businessPlanGenerator": {
+      "title": "Générateur de Plan d'Affaires",
+      "description": "Générez des plans d'affaires professionnels adaptés à vos besoins. Fournissez simplement des informations sur votre entreprise, telles que les objectifs, le public cible et les produits/services, et nous générerons un plan personnalisé pour vous. Vous pouvez également personnaliser le plan avec des couleurs et des polices."
+    },
+    "elearning": {
+      "title": "E-Learning",
+      "description": "Accédez à notre plateforme d'apprentissage en ligne complète pour le développement de compétences. Apprenez étape par étape comment construire et développer votre propre entreprise. Nos cours couvrent divers sujets, y compris l'entrepreneuriat, le marketing, la finance, et plus encore."
+    },
+    "aboutUs": "À Propos de Nous",
+    "aboutUsHeading": "Explorez Plus ",
+    "aboutUsHeading2": "À Propos de Nous",
+    "aboutUsContent": "Donnez les moyens aux entrepreneurs aspirants de réussir avec des outils et des ressources complets. Notre plateforme offre l'accès à des conseils d'experts, des ateliers interactifs et un soutien personnalisé, permettant aux entrepreneurs d'acquérir les connaissances et les compétences nécessaires pour surmonter les défis de démarrage et de croissance d'une entreprise.",
+    "aboutUsContent2": "Favorisez l'innovation, la créativité et la collaboration au sein de notre communauté. Nous croyons en le pouvoir de la collaboration et du partage des connaissances. Notre plateforme facilite les opportunités de réseautage, les forums d'échange d'idées et les projets collaboratifs, créant un écosystème dynamique où les entrepreneurs peuvent apprendre les uns des autres et prospérer ensemble.",
+    "aboutUsContent3": "Équipe dédiée engagée à faciliter un changement positif grâce à l'entrepreneuriat. Notre équipe se compose de professionnels expérimentés passionnés par le soutien aux entrepreneurs dans leur parcours vers le succès. Nous sommes dédiés à fournir un service exceptionnel, des conseils sur mesure et une amélioration continue pour garantir que notre plateforme réponde aux besoins évolutifs de nos utilisateurs.",
+    "contactUs": "Contactez-Nous"
+  },
+  "contact": {
+    "contact": "Formulaire de Contact",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phoneNumber": "Numéro de Téléphone",
+    "email": "Adresse Email",
+    "enterFirstName": "Entrez votre prénom",
+    "enterLastName": "Entrez votre nom",
+    "enterPhoneNumber": "Entrez votre numéro de téléphone",
+    "enterEmail": "Entrez votre adresse email",
+    "enterQuery": "Entrez votre requête",
+    "enterYourQuery": "Entrez votre requête ici...",
+    "submit": "Soumettre",
+    "dataStored": "Données enregistrées!",
+    "storeDataFailed": "Échec de l'enregistrement des données.",
+    "fillAllFields": "Veuillez remplir tous les champs."
+  },
+  "aboutPage": {
+    "aboutUsHeading": "À Propos de Nous",
+    "businessPlanTitle": "Plan d'Affaires",
+    "businessPlanDescription": "Votre feuille de route vers le succès. Développez un plan d'affaires complet pour guider votre parcours entrepreneurial. Votre plan d'affaires devrait inclure des sections telles que le résumé exécutif, l'analyse de marché, le modèle d'entreprise, la stratégie marketing, les projections financières, et plus encore. Rappelez-vous, un plan d'affaires bien élaboré vous aidera à attirer des investisseurs, à sécuriser le financement et à rester concentré sur vos objectifs.",
+    "missionTitle": "Mission",
+    "missionDescription": "Notre mission est d'autonomiser les entrepreneurs en leur fournissant les outils, les ressources et le soutien dont ils ont besoin pour transformer leurs idées en entreprises réussies. Nous croyons en la promotion de l'innovation, de la créativité et de la collaboration pour générer un changement positif dans le monde grâce à l'entrepreneuriat. Rejoignez-nous dans notre mission pour autonomiser la prochaine génération d'entrepreneurs visionnaires et de créateurs de changement.",
+    "visionTitle": "Vision",
+    "visionDescription": "Notre vision est de créer un écosystème dynamique où chaque entrepreneur a l'opportunité de prospérer et de réussir. Nous envisageons un monde où l'entrepreneuriat est célébré, soutenu et accessible à tous, indépendamment de leur origine ou de leur situation. Ensemble, construisons un avenir où l'entrepreneuriat est un catalyseur de changement positif et de croissance durable."
+  },
+  "elearning": {
+    "title": "E-Learning",
+    "videoCountLabel": "Vidéos",
+    "videosLabel": "Vidéos",
+    "sections": {
+      "section1": {
+        "title": "Planification",
+        "description": "Apprenez à planifier votre stratégie d'entreprise.",
+        "videos": {
+          "video1": {
+            "title": "Comment Rédiger un Plan d'Affaires",
+            "duration": "(0 minutes 31 secondes)"
+          },
+          "video2": {
+            "title": "Commencez Votre Plan",
+            "duration": "(0 minutes 34 secondes)"
+          },
+          "video3": {
+            "title": "Plan d'Affaires en Bref",
+            "duration": "(0 minutes 38 secondes)"
+          },
+          "video4": {
+            "title": "Composantes d'un Plan",
+            "duration": "(0 minutes 17 secondes)"
+          },
+          "video5": {
+            "title": "Votre Public",
+            "duration": "(1 minute 56 secondes)"
+          },
+          "video6": {
+            "title": "Catégories de Plans d'Affaires",
+            "duration": "(1 minute 28 secondes)"
+          },
+          "video7": {
+            "title": "Une Taille ne Convient Pas à Tous",
+            "duration": "(6 minutes 39 secondes)"
+          },
+          "video8": {
+            "title": "Création de Votre Plan",
+            "duration": "(0 minutes 50 secondes)"
+          },
+          "video9": {
+            "title": "Questions du Plan d'Affaires",
+            "duration": "(0 minutes 29 secondes)"
+          },
+          "video10": {
+            "title": "Descriptions de Votre Entreprise",
+            "duration": "(03 minutes 57 secondes)"
+          }
+        }
+      },
+      "section2": {
+        "title": "Lancement",
+        "description": "Découvrez les étapes clés pour un lancement de produit réussi.",
+        "videos": {
+          "video11": {
+            "title": "Financement de Votre Entreprise",
+            "duration": "(1 minute 14 secondes)"
+          },
+          "video12": {
+            "title": "Vos Besoins Financiers",
+            "duration": "(1 minute 39 secondes)"
+          },
+          "video13": {
+            "title": "Estimation des Coûts de Démarrage",
+            "duration": "(2 minutes 55 secondes)"
+          },
+          "video14": {
+            "title": "Prêt",
+            "duration": "(4 minutes 37 secondes)"
+          },
+          "video15": {
+            "title": "Financement Participatif",
+            "duration": "(1 minute 31 secondes)"
+          }
+        }
+      },
+      "section3": {
+        "title": "Gestion",
+        "description": "Explorez des techniques de gestion efficaces.",
+        "videos": {
+          "video16": {
+            "title": "Compréhension de Votre Clientèle",
+            "duration": "(1 minute 50 secondes)"
+          },
+          "video17": {
+            "title": "Identification des Clients et de Leurs Besoins",
+            "duration": "(0 minutes 23 secondes)"
+          },
+          "video18": {
+            "title": "Données de Recherche de Marché",
+            "duration": "(2 minutes 18 secondes)"
+          },
+          "video19": {
+            "title": "Suivi des Expériences Client",
+            "duration": "(1 minute 34 secondes)"
+          },
+          "video20": {
+            "title": "Comprendre l'Intention du Client",
+            "duration": "(2 minutes 37 secondes)"
+          },
+          "video21": {
+            "title": "Planification des Ventes",
+            "duration": "(1 minute 59 secondes)"
+          }
+        }
+      },
+      "section4": {
+        "title": "Marché",
+        "description": "Apprenez les stratégies et tactiques marketing.",
+        "videos": {
+          "video22": {
+            "title": "Aperçu de la Recherche de Marché",
+            "duration": "(2 minutes 0 secondes)"
+          },
+          "video23": {
+            "title": "Avantages de la Recherche de Marché",
+            "duration": "(0 minutes 51 secondes)"
+          },
+          "video24": {
+            "title": "Compréhension de la Recherche de Marché",
+            "duration": "(2 minutes 57 secondes)"
+          },
+          "video25": {
+            "title": "Créer un Questionnaire",
+            "duration": "(0 minutes 57 secondes)"
+          },
+          "video26": {
+            "title": "Analyse de Données",
+            "duration": "(2 minutes 38 secondes)"
+          },
+          "video27": {
+            "title": "Plan Marketing",
+            "duration": "(0 minutes 40 secondes)"
+          },
+          "video28": {
+            "title": "Utilisation des Médias Sociaux",
+            "duration": "(2 minutes 09 secondes)"
+          }
+        }
+      },
+      "section5": {
+        "title": "Croissance",
+        "description": "Stratégies pour développer et faire croître votre entreprise.",
+        "videos": {
+          "video29": {
+            "title": "Trouver et Attirer des Investisseurs",
+            "duration": "(1 minute 43 secondes)"
+          },
+          "video30": {
+            "title": "Financement Externe",
+            "duration": "(0 minutes 55 secondes)"
+          },
+          "video31": {
+            "title": "Investisseurs",
+            "duration": "(3 minutes 18 secondes)"
+          },
+          "video32": {
+            "title": "Processus d'Investissement",
+            "duration": "(1 minute 04 secondes)"
+          },
+          "video33": {
+            "title": "Financement Participatif pour les Parts",
+            "duration": "(1 minute 03 secondes)"
+          },
+          "video34": {
+            "title": "Introduction au Prix",
+            "duration": "(1 minute 32 secondes)"
+          },
+          "video35": {
+            "title": "Votre Modèle de Tarification",
+            "duration": "(1 minute 22 secondes)"
+          }
+        }
+      }
+    }
+  },
+  "videoList": {
+    "noSectionData": "Aucune donnée de section disponible.",
+    "totalVideos": "Total des Vidéos"
+  },
+  "videoPlayer": {
+    "title": "Formulaire de Feedback",
+    "rateSection": "Évaluez cette section :",
+    "feedback": "Feedback :",
+    "enterFeedback": "Entrez votre feedback",
+    "close": "Fermer",
+    "submitFeedback": "Soumettre le Feedback",
+    "giveFeedback": "Donner un Feedback",
+    "thankYouFeedback": "Merci pour votre feedback !",
+    "noVideoFound": "Aucune vidéo trouvée.",
+    "duration": "Durée",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+
+  "businessPlanGenerator": {
+    "title": "Générateur de Plan d'Affaires",
+    "executiveSummary": "Résumé Exécutif",
+    "companyName": "Nom de l'Entreprise",
+    "productsAndServices": "Produits et Services",
+    "managementTeam": "Équipe de Direction",
+    "marketingAnalysis": "Analyse Marketing",
+    "financialPlan": "Plan Financier",
+    "operationalPlan": "Plan Opérationnel",
+    "selectFont": "Sélectionnez la Police",
+    "generatePlan": "Générer le Plan d'Affaires",
+    "placeholder": "Veuillez saisir {{fieldName}}"
+  },
+  "colors": {
+    "mainCardColor": "Couleur de la Carte Principale : ",
+    "otherCardColor": "Couleur des Autres Cartes : "
+  },
+
+  "generatedPlan": {
+    "businessPlan": "Plan d'Affaires",
+    "executiveSummary": "Résumé Exécutif",
+    "companyName": "Nom de l'Entreprise",
+    "productsServices": "Produits et Services",
+    "managementTeam": "Équipe de Direction",
+    "marketingAnalysis": "Analyse Marketing",
+    "FinancialPlan": "Plan Financier",
+    "operationalPlan": "Plan Opérationnel",
+
+    "alertMessage": "Téléchargement PDF réussi !",
+    "downloadButton": "Télécharger le PDF"
+  },
+  "blogPage": {
+    "title": "Boîte à Outils de l'Entrepreneur",
+    "welcome": "Bienvenue à ",
+    "blogPage": "Notre Page de Blog",
+    "toolkit": "Boîte à Outils de l'Entrepreneur",
+    "ultimate": "L'ultime, ",
+    "guide": "votre guide vers le succès en affaires",
+    "resource": "votre ressource incontournable pour naviguer, élaborer des stratégies et réussir en affaires.",
+    "companion": "votre compagnon essentiel pour la croissance entrepreneuriale, la planification stratégique et les triomphes commerciaux.",
+    "blogs": {
+      "b": "Startups Indiennes et leurs Entrepreneurs",
+      "span": "\"Des Histoires de Succès à Portée de Main\"",
+      "blog1": {
+        "bold": "Boîte à Outils de l'Entrepreneur",
+        "p": "comprend des éléments essentiels pour favoriser une expérience complète et centrée sur l'utilisateur sur notre site web. Avec un chatbot réactif à sa base, les utilisateurs reçoivent un support et des conseils instantanés, améliorant leur navigation. L'inclusion d'un traducteur de langues assure à un public mondial un accès transparent à notre contenu, transcendant les barrières linguistiques. En complément, nos ressources éducatives au sein de la boîte à outils fournissent aux utilisateurs des informations précieuses et des opportunités d'apprentissage, enrichissant ainsi leur engagement avec notre plateforme. En essence, la Boîte à Outils de l'Entrepreneur forme la colonne vertébrale de notre engagement à fournir un environnement en ligne interactif, informatif et globalement accessible."
+      },
+      "blog2": {
+        "bold": "Aman Gupta",
+        "p": "est en effet l'un des fondateurs de boAt Lifestyle, une marque d'électronique grand public principalement connue pour ses produits audio tels que des écouteurs, des casques, des haut-parleurs et des appareils portables. Avec son co-fondateur Sameer Mehta, Aman Gupta a créé boAt en 2015. boAt a gagné une popularité significative en Inde et à l'étranger pour ses accessoires audio élégants et abordables. La marque a capitalisé sur la demande croissante de produits audio de qualité, surtout parmi la jeune génération. Sous la direction d'Aman Gupta, boAt a élargi sa gamme de produits et sa présence sur le marché, devenant l'une des principales marques audio en Inde. La société s'est également engagée dans diverses initiatives marketing, y compris des partenariats avec des célébrités et des influenceurs, pour renforcer davantage sa visibilité de marque."
+      },
+      "blog3": {
+        "bold": "Vijay Shekhar Sharma",
+        "p": "est le fondateur de Paytm. Il a fondé Paytm (à l'origine \"Pay Through Mobile\") en 2010. Paytm a commencé en tant que plateforme de recharge mobile et de paiement de factures d'utilité, mais s'est ensuite développé en une société de paiement numérique à part entière et de services financiers.Sous la direction de Vijay Shekhar Sharma, Paytm est devenu l'une des principales plateformes de paiement numérique en Inde, offrant une large gamme de services, y compris les recharges mobiles, les paiements de factures, les achats en ligne, les réservations de billets, la gestion de patrimoine et les services bancaires par le biais de sa filiale, Paytm Payments Bank. La vision et l'esprit d'entreprise de Vijay Shekhar Sharma ont été essentiels dans le succès de Paytm et son évolution en un géant fintech multifacettes en Inde."
+      },
+      "blog4": {
+        "bold": "Vidit Aatrey",
+        "p": "est un entrepreneur indien et le co-fondateur de Meesho, une plateforme de commerce social. Il est diplômé de l'Indian Institute of Technology (IIT) Delhi en génie électrique. Avant de fonder Meesho en 2015, Aatrey a travaillé en tant qu'ingénieur en développement logiciel chez InMobi, une entreprise technologique mondiale de publicité mobile. En tant que co-fondateur et PDG de Meesho, Vidit Aatrey a joué un rôle essentiel dans la croissance et la stratégie de l'entreprise. Meesho est devenu l'une des principales plateformes de commerce social en Inde, permettant à des millions de petites entreprises et de particuliers de démarrer leurs boutiques en ligne et de vendre des produits via les réseaux sociaux.Sous la direction d'Aatrey, Meesho a levé des fonds importants auprès d'investisseurs de renom et a élargi sa base d'utilisateurs et ses offres de produits. Son parcours entrepreneurial et sa vision pour Meesho ont attiré l'attention dans l'écosystème startup indien, et il continue de stimuler l'innovation et la croissance au sein de l'entreprise."
+      },
+      "blog5": {
+        "bold": "Bhavish Agarwal",
+        "p": "est un entrepreneur indien et le co-fondateur de Ola, l'une des principales entreprises de covoiturage en Inde. Il est né le 28 août 1985 à Ludhiana, Punjab, Inde. Bhavish Aggarwal a co-fondé Ola en décembre 2010 avec Ankit Bhati. Sous la direction de Bhavish Aggarwal, Ola est devenu un acteur majeur du secteur des transports et de la mobilité en Inde. Ola propose une gamme de services, y compris la réservation de taxis, d'auto-rickshaws, de partage de vélos, et plus encore. La société a étendu ses opérations non seulement en Inde, mais également dans divers marchés internationaux. Bhavish Aggarwal est connu pour sa vision entrepreneuriale et ses efforts pour transformer la façon dont les gens se déplacent en Inde. Il a joué un rôle crucial dans l'élaboration de la stratégie d'Ola et l'expansion de ses services pour répondre à divers besoins de transport. Au moment de ma dernière mise à jour de connaissance en janvier 2022, Bhavish Aggarwal continue de servir en tant que PDG de Ola."
+      },
+      "blog6": {
+        "bold": "Aadithyan Rajesh",
+        "p": "un autre jeune homme d'affaires indien, a créé son application mobile la plus mémorable à l'âge de neuf ans. Il avait l'habitude de créer des logos et des interfaces de site web comme passe-temps avant de démarrer sa société, Trinet Solutions. Petit à petit, il a commencé à coder et à publier des jeux, et il a créé son logiciel le plus mémorable, 'Ashirwad', qui est un navigateur internet similaire à Google Chrome. L'application a été réalisée dans Android Studio et publiée dans le magasin Aptoide. Rajesh est également un YouTuber à succès et gère sa propre entreprise informatique. Il anime la chaîne 'A Craze', où il publie des vidéoblogs sur la technologie, la programmation, les jeux et la conception de sites web."
+      }
+    }
+  },
+
+  "footer": {
+    "toolkit": "Boîte à Outils de l'Entrepreneur",
+    "resource": "Votre boîte à outils indispensable pour réussir en affaires et en innovation. Naviguez dans le monde de l'entrepreneuriat avec notre boîte à outils complète à portée de main.",
+    "quickLinks": "Liens Rapides",
+    "aboutUs": "À Propos de Nous",
+    "contactUs": "Contactez-Nous",
+    "blogs": "Blogs",
+    "contactInfo": "Nous Contacter",
+    "phoneNumber": "9769521161",
+    "email": "siddhiauti123@gmail.com",
+    "location": "Mumbai",
+    "businessForums": "Forums d'Affaires",
+    "entrepreneurSubreddit": "Sous-Reddit de l'Entrepreneur",
+    "smallBusinessForums": "Forums pour Petites Entreprises",
+    "warriorForum": "Forum Warrior"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Acerca de Nosotros",
+    "blogs": "Blogs",
+    "elearning": "E-Learning",
+    "businessPlanGenerator": "Generador de Planes de Negocio",
+    "brandText": "Kit de Herramientas del Emprendedor",
+    "darkMode": "Modo Oscuro",
+    "welcome": "Bienvenido",
+    "signOut": "Cerrar Sesión"
+  },
+  "homepage": {
+    "welcome": "Bienvenido a ",
+    "welcome2": "Kit de Herramientas del Emprendedor",
+    "slogan": "Donde las ideas prosperan y las herramientas empoderan.",
+    "getStarted": "¡Empezar!",
+    "features": "Explora Nuestras Características",
+    "featuresHeading": "Descubre Nuestras ",
+    "featuresHeading2": "Características",
+    "blogs": {
+      "title": "Blogs",
+      "description": "Explora artículos informativos y mantente actualizado sobre las últimas tendencias. Motívate leyendo historias de éxito de emprendedores. También puedes contribuir con tu propio blog para inspirar a otros."
+    },
+    "businessPlanGenerator": {
+      "title": "Generador de Planes de Negocio",
+      "description": "Genera planes de negocios profesionales adaptados a tus necesidades. Simplemente proporciona información sobre tu negocio, como objetivos, público objetivo y productos/servicios, y nosotros generaremos un plan personalizado para ti. También puedes personalizar el plan con colores y fuentes."
+    },
+    "elearning": {
+      "title": "E-Learning",
+      "description": "Accede a nuestra plataforma de aprendizaje en línea integral para el desarrollo de habilidades. Aprende paso a paso cómo construir y hacer crecer tu propio negocio. Nuestros cursos cubren varios temas, incluyendo emprendimiento, marketing, finanzas y más."
+    },
+    "aboutUs": "Acerca de Nosotros",
+    "aboutUsHeading": "Explora Más ",
+    "aboutUsHeading2": "Acerca de Nosotros",
+    "aboutUsContent": "Empoderar a los aspirantes a emprendedores para que tengan éxito con herramientas y recursos integrales. Nuestra plataforma proporciona acceso a consejos de expertos, talleres interactivos y apoyo personalizado, permitiendo a los emprendedores adquirir los conocimientos y habilidades necesarios para enfrentar los desafíos de iniciar y hacer crecer un negocio.",
+    "aboutUsContent2": "Fomentar la innovación, la creatividad y la colaboración dentro de nuestra comunidad. Creemos en el poder de la colaboración y el intercambio de conocimientos. Nuestra plataforma facilita oportunidades de networking, foros de intercambio de ideas y proyectos colaborativos, creando un ecosistema dinámico donde los emprendedores pueden aprender unos de otros y prosperar juntos.",
+    "aboutUsContent3": "Equipo dedicado comprometido a facilitar un cambio positivo a través del emprendimiento. Nuestro equipo está formado por profesionales experimentados apasionados por apoyar a los emprendedores en su camino hacia el éxito. Estamos dedicados a brindar un servicio excepcional, orientación personalizada y mejora continua para asegurar que nuestra plataforma satisfaga las necesidades cambiantes de nuestros usuarios.",
+    "contactUs": "Contáctanos"
+  },
+  "contact": {
+    "contact": "Formulario de Contacto",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "phoneNumber": "Número de Teléfono",
+    "email": "Correo Electrónico",
+    "enterFirstName": "Ingresa tu nombre",
+    "enterLastName": "Ingresa tu apellido",
+    "enterPhoneNumber": "Ingresa tu número de teléfono",
+    "enterEmail": "Ingresa tu correo electrónico",
+    "enterQuery": "Ingresa tu consulta",
+    "enterYourQuery": "Ingresa tu consulta aquí...",
+    "submit": "Enviar",
+    "dataStored": "¡Datos almacenados!",
+    "storeDataFailed": "Error al almacenar datos.",
+    "fillAllFields": "Por favor completa todos los campos."
+  },
+  "aboutPage": {
+    "aboutUsHeading": "Acerca de Nosotros",
+    "businessPlanTitle": "Plan de Negocio",
+    "businessPlanDescription": "Tu mapa de ruta hacia el éxito. Desarrolla un plan de negocio integral para guiar tu viaje emprendedor. Tu plan de negocios debe incluir secciones como resumen ejecutivo, análisis de mercado, modelo de negocio, estrategia de marketing, proyecciones financieras y más. Recuerda, un plan de negocios bien elaborado te ayudará a atraer inversores, asegurar financiamiento y mantener el enfoque en tus objetivos.",
+    "missionTitle": "Misión",
+    "missionDescription": "Nuestra misión es empoderar a los emprendedores proporcionándoles las herramientas, recursos y apoyo que necesitan para convertir sus ideas en negocios exitosos. Creemos en fomentar la innovación, la creatividad y la colaboración para impulsar un cambio positivo en el mundo a través del emprendimiento. Únete a nosotros en nuestra misión de empoderar a la próxima generación de emprendedores visionarios y agentes de cambio.",
+    "visionTitle": "Visión",
+    "visionDescription": "Nuestra visión es crear un ecosistema vibrante donde todo emprendedor tenga la oportunidad de prosperar y tener éxito. Visualizamos un mundo donde el emprendimiento sea celebrado, apoyado y accesible para todos, independientemente de su origen o circunstancia. Juntos, construyamos un futuro donde el emprendimiento sea un catalizador para un cambio positivo y un crecimiento sostenible."
+  },
+
+  "elearning": {
+    "title": "E-Learning",
+    "videoCountLabel": "Videos",
+    "videosLabel": "Videos",
+    "sections": {
+      "section1": {
+        "title": "Planificar",
+        "description": "Aprende cómo planificar tu estrategia empresarial.",
+        "videos": {
+          "video1": {
+            "title": "Cómo Escribir un Plan de Negocio",
+            "duration": "(0 minutos 31 segundos)"
+          },
+          "video2": {
+            "title": "Comienza tu Plan",
+            "duration": "(0 minutos 34 segundos)"
+          },
+          "video3": {
+            "title": "Esquema del Plan de Negocio",
+            "duration": "(0 minutos 38 segundos)"
+          },
+          "video4": {
+            "title": "Componentes de un Plan",
+            "duration": "(0 minutos 17 segundos)"
+          },
+          "video5": {
+            "title": "Tu Audiencia",
+            "duration": "(1 minuto 56 segundos)"
+          },
+          "video6": {
+            "title": "Categorías de Planes de Negocio",
+            "duration": "(1 minuto 28 segundos)"
+          },
+          "video7": {
+            "title": "Un Tamaño no Sirve para Todos",
+            "duration": "(6 minutos 39 segundos)"
+          },
+          "video8": {
+            "title": "Creando tu Plan",
+            "duration": "(0 minutos 50 segundos)"
+          },
+          "video9": {
+            "title": "Preguntas del Plan de Negocio",
+            "duration": "(0 minutos 29 segundos)"
+          },
+          "video10": {
+            "title": "Descripciones de tu Empresa",
+            "duration": "(03 minutos 57 segundos)"
+          }
+        }
+      },
+      "section2": {
+        "title": "Lanzar",
+        "description": "Descubre los pasos clave para un lanzamiento de producto exitoso.",
+        "videos": {
+          "video11": {
+            "title": "Financiar tu Negocio",
+            "duration": "(1 minuto 14 segundos)"
+          },
+          "video12": {
+            "title": "Tus Necesidades Financieras",
+            "duration": "(1 minuto 39 segundos)"
+          },
+          "video13": {
+            "title": "Estimación de Costos Iniciales",
+            "duration": "(2 minutos 55 segundos)"
+          },
+          "video14": {
+            "title": "Préstamo",
+            "duration": "(4 minutos 37 segundos)"
+          },
+          "video15": {
+            "title": "Financiamiento Colectivo",
+            "duration": "(1 minuto 31 segundos)"
+          }
+        }
+      },
+      "section3": {
+        "title": "Gestionar",
+        "description": "Explora técnicas de gestión efectivas.",
+        "videos": {
+          "video16": {
+            "title": "Entendiendo a tu Cliente",
+            "duration": "(1 minuto 50 segundos)"
+          },
+          "video17": {
+            "title": "Identificación de Clientes y sus Necesidades",
+            "duration": "(0 minutos 23 segundos)"
+          },
+          "video18": {
+            "title": "Datos de Investigación de Mercado",
+            "duration": "(2 minutos 18 segundos)"
+          },
+          "video19": {
+            "title": "Seguimiento de Experiencias del Cliente",
+            "duration": "(1 minuto 34 segundos)"
+          },
+          "video20": {
+            "title": "Entender la Intención del Cliente",
+            "duration": "(2 minutos 37 segundos)"
+          },
+          "video21": {
+            "title": "Planificación de Ventas",
+            "duration": "(1 minuto 59 segundos)"
+          }
+        }
+      },
+      "section4": {
+        "title": "Mercado",
+        "description": "Aprende sobre estrategias y tácticas de marketing.",
+        "videos": {
+          "video22": {
+            "title": "Visión General de Investigación de Mercado",
+            "duration": "(2 minutos 0 segundos)"
+          },
+          "video23": {
+            "title": "Beneficios de la Investigación de Mercado",
+            "duration": "(0 minutos 51 segundos)"
+          },
+          "video24": {
+            "title": "Entendiendo la Investigación de Mercado",
+            "duration": "(2 minutos 57 segundos)"
+          },
+          "video25": {
+            "title": "Crear un Cuestionario",
+            "duration": "(0 minutos 57 segundos)"
+          },
+          "video26": {
+            "title": "Análisis de Datos",
+            "duration": "(2 minutos 38 segundos)"
+          },
+          "video27": {
+            "title": "Plan de Marketing",
+            "duration": "(0 minutos 40 segundos)"
+          },
+          "video28": {
+            "title": "Uso de Redes Sociales",
+            "duration": "(2 minutos 09 segundos)"
+          }
+        }
+      },
+      "section5": {
+        "title": "Crecer",
+        "description": "Estrategias para escalar y hacer crecer tu negocio.",
+        "videos": {
+          "video29": {
+            "title": "Encontrar y Atraer Inversores",
+            "duration": "(1 minuto 43 segundos)"
+          },
+          "video30": {
+            "title": "Financiamiento Externo",
+            "duration": "(0 minutos 55 segundos)"
+          },
+          "video31": {
+            "title": "Inversores",
+            "duration": "(3 minutos 18 segundos)"
+          },
+          "video32": {
+            "title": "Proceso de Inversión",
+            "duration": "(1 minuto 04 segundos)"
+          },
+          "video33": {
+            "title": "Financiamiento Colectivo para Acciones",
+            "duration": "(1 minuto 03 segundos)"
+          },
+          "video34": {
+            "title": "Introducción a la Fijación de Precios",
+            "duration": "(1 minuto 32 segundos)"
+          },
+          "video35": {
+            "title": "Tu Modelo de Precios",
+            "duration": "(1 minuto 22 segundos)"
+          }
+        }
+      }
+    }
+  },
+
+  "videoList": {
+    "noSectionData": "No hay datos de sección disponibles.",
+    "totalVideos": "Total de Videos"
+  },
+  "videoPlayer": {
+    "title": "Formulario de Retroalimentación",
+    "rateSection": "Califica esta sección:",
+    "feedback": "Retroalimentación:",
+    "enterFeedback": "Ingresa tu retroalimentación",
+    "close": "Cerrar",
+    "submitFeedback": "Enviar Retroalimentación",
+    "giveFeedback": "Dar Retroalimentación",
+    "thankYouFeedback": "¡Gracias por tu retroalimentación!",
+    "noVideoFound": "Ningún video encontrado.",
+    "duration": "Duración",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+
+  "businessPlanGenerator": {
+    "title": "Generador de Planes de Negocio",
+    "executiveSummary": "Resumen Ejecutivo",
+    "companyName": "Nombre de la Empresa",
+    "productsAndServices": "Productos y Servicios",
+    "managementTeam": "Equipo de Gestión",
+    "marketingAnalysis": "Análisis de Marketing",
+    "financialPlan": "Plan Financiero",
+    "operationalPlan": "Plan Operativo",
+    "selectFont": "Seleccionar Fuente",
+    "generatePlan": "Generar Plan de Negocio",
+    "placeholder": "Por favor ingresa {{fieldName}}"
+  },
+  "colors": {
+    "mainCardColor": "Color Principal de la Tarjeta: ",
+    "otherCardColor": "Otros Colores de Tarjeta: "
+  },
+
+  "generatedPlan": {
+    "businessPlan": "Plan de Negocio",
+    "executiveSummary": "Resumen Ejecutivo",
+    "companyName": "Nombre de la Empresa",
+    "productsServices": "Productos y Servicios",
+    "managementTeam": "Equipo de Gestión",
+    "marketingAnalysis": "Análisis de Marketing",
+    "FinancialPlan": "Plan Financiero",
+    "operationalPlan": "Plan Operativo",
+
+    "alertMessage": "¡PDF descargado exitosamente!",
+    "downloadButton": "Descargar PDF"
+  },
+
+  "blogPage": {
+    "title": "Kit de Herramientas del Emprendedor",
+    "welcome": "Bienvenido a ",
+    "blogPage": "Nuestra Página de Blog",
+    "toolkit": "Kit de Herramientas del Emprendedor",
+    "ultimate": "El último, ",
+    "guide": "tu guía para el éxito en los negocios",
+    "resource": "tu recurso indispensable para navegar, planificar y lograr el éxito en los negocios.",
+    "companion": "tu compañero esencial para el crecimiento empresarial, la planificación estratégica y los triunfos empresariales.",
+    "blogs": {
+      "b": "Startups Indias y sus Emprendedores",
+      "span": "\"Historias de Éxito al Alcance de tu Mano\"",
+      "blog1": {
+        "bold": "Kit de Herramientas del Emprendedor",
+        "p": "comprende elementos esenciales para fomentar una experiencia integral y centrada en el usuario en nuestro sitio web. Con un chatbot receptivo en su núcleo, los usuarios reciben soporte y orientación instantáneos, mejorando su navegación. La inclusión de un traductor de idiomas garantiza que una audiencia global pueda acceder sin problemas a nuestro contenido, trascendiendo las barreras lingüísticas. Además, nuestros recursos educativos dentro del kit de herramientas proporcionan a los usuarios valiosos conocimientos y oportunidades de aprendizaje, enriqueciendo su compromiso con nuestra plataforma. En esencia, el Kit de Herramientas del Emprendedor forma la columna vertebral de nuestro compromiso de ofrecer un entorno en línea interactivo, informativo y globalmente accesible."
+      },
+      "blog2": {
+        "bold": "Aman Gupta",
+        "p": "es uno de los fundadores de boAt Lifestyle, una marca de electrónica de consumo conocida principalmente por sus productos de audio como auriculares, audífonos, altavoces y dispositivos portátiles. Junto con el cofundador Sameer Mehta, Aman Gupta estableció boAt en 2015. boAt ha ganado una gran popularidad en India y en el extranjero por sus elegantes y asequibles accesorios de audio. La marca ha capitalizado la creciente demanda de productos de audio de calidad, especialmente entre el público joven. Bajo el liderazgo de Aman Gupta, boAt ha ampliado su gama de productos y su presencia en el mercado, convirtiéndose en una de las principales marcas de audio en India. La empresa también ha participado en diversas iniciativas de marketing, incluyendo asociaciones con celebridades e influencers, para aumentar aún más su visibilidad de marca."
+      },
+      "blog3": {
+        "bold": "Vijay Shekhar Sharma",
+        "p": "es el fundador de Paytm. Fundó Paytm (originalmente \"Paga a través del Móvil\") en 2010. Paytm comenzó como una plataforma de recarga móvil y pago de servicios públicos, pero luego se expandió a una empresa de pagos digitales y servicios financieros completa. Bajo el liderazgo de Vijay Shekhar Sharma, Paytm ha crecido para convertirse en una de las principales plataformas de pago digital de India, ofreciendo una amplia gama de servicios que incluyen recargas móviles, pagos de facturas, transferencias de dinero, compras en línea, banca digital, seguros y más. La visión de Vijay Shekhar Sharma de democratizar el acceso a los servicios financieros ha sido fundamental para la misión de Paytm de digitalizar la economía india y brindar servicios financieros inclusivos a millones de personas en todo el país."
+      },
+      "blog4": {
+        "bold": "Por qué es Importante un Plan de Negocios para tu Startup",
+        "p": "Un plan de negocios es una herramienta vital para cualquier startup, ya que proporciona una guía detallada para el éxito empresarial. Desde establecer objetivos claros hasta identificar estrategias para alcanzarlos, un plan de negocios ayuda a los emprendedores a visualizar el futuro de su empresa y a tomar decisiones informadas. Además, un plan de negocios bien elaborado es esencial para atraer inversores, socios comerciales y financiamiento. Proporciona una descripción completa de la empresa, su modelo de negocio, su mercado objetivo, su estrategia de marketing, sus proyecciones financieras y más. En resumen, un plan de negocios sólido es una herramienta fundamental para el éxito a largo plazo de cualquier startup."
+      }
+    }
+  },
+
+  "footer": {
+    "explore": "Explora",
+    "businessPlan": "Plan de Negocio",
+    "elearning": "E-Learning",
+    "blogs": "Blogs",
+    "aboutUs": "Acerca de Nosotros",
+    "contactUs": "Contáctanos",
+    "rights": "© 2024 Kit de Herramientas del Emprendedor. Todos los derechos reservados."
+  }
+}

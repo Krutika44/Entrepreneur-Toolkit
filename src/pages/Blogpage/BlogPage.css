@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=David+Libre&family=Josefin+Sans&display=swap");
+
+:root {
+  --bg-size: 100% 100%;
+  --main_color: #fff;
+  --title: "Josefin Sans", sans-serif;
+  --font-para: "David Libre", serif;
+  --btn-color: #bbe1fa;
+  --btn-font-color: #000;
+  --btn-font: 1.5rem;
+  --eff: 0.3s all ease; /* Updated the value to remove the leading dot */
+}
+
+.main_heading {
+  font-family: var(--title);
+  font-weight: bold;
+  color: #000;
+}
+
+.main_header__div {
+  height: calc(100vh - 40vh);
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.8) 50%,
+      rgba(0, 0, 0, 0)
+    ),
+    url("https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: var(--bg-size);
+}
+
+.main_header__div p {
+  font-weight: bold;
+  font-family: var(--title);
+  color: var(--main_color);
+  padding-bottom: 1rem;
+  margin-bottom: 0;
+}
+
+.main_header__div h2 {
+  font-weight: bold;
+  font-family: var(--title);
+  color: var(--main_color);
+  padding-bottom: 2rem;
+  transition: var(--eff);
+}
+
+.main_header__div span {
+  font-family: var(--title);
+}
+
+.animateWord div {
+  overflow: hidden;
+  position: relative;
+  height: 8rem;
+  padding-top: 1rem;
+  margin-top: -1rem;
+}
+
+.animateWord div li {
+  font-weight: bold;
+  padding: 20px 7px; /* Updated the values to include units */
+  height: 4.5rem;
+  margin-bottom: 4.5rem;
+  display: block;
+  font-family: var(--title);
+}
+
+.flip {
+  -webkit-animation: flip4 10s cubic-bezier(0.23, 1, 0.32, 1.2) infinite;
+  animation: flip4 10s cubic-bezier(0.23, 1, 0.32, 1.2) infinite;
+  margin-bottom: 3rem;
+}
+
+.flip li {
+  font-size: 2rem;
+  float: none; /* Not a valid value for 'float'. Corrected to 'none' */
+}
+
+.ti {
+  font-size: 2rem;
+}
+
+.overlay-text {
+  font-size: 2rem;
+}
+
+@-webkit-keyframes flip4 {
+  0% {
+    margin-top: -500px;
+  }
+  5% {
+    margin-top: -270px;
+  }
+
+  25% {
+    margin-top: -270px;
+  }
+
+  30% {
+    margin-top: -180px;
+  }
+
+  50% {
+    margin-top: -180px;
+  }
+
+  55% {
+    margin-top: -90px;
+  }
+
+  75% {
+    margin-top: -90px;
+  }
+
+  80% {
+    margin-top: 0px;
+  }
+
+  99.99% {
+    margin-top: 0px;
+  }
+
+  100% {
+    margin-top: -270px;
+  }
+  /* Keyframe values are not changed as they seem correct */
+}
+
+@keyframes flip4 {
+  0% {
+    margin-top: -250px;
+  }
+  5% {
+    margin-top: -270px;
+  }
+
+  25% {
+    margin-top: -270px;
+  }
+
+  30% {
+    margin-top: -180px;
+  }
+
+  50% {
+    margin-top: -180px;
+  }
+
+  55% {
+    margin-top: -90px;
+  }
+
+  75% {
+    margin-top: -90px;
+  }
+
+  80% {
+    margin-top: 0px;
+  }
+
+  99.99% {
+    margin-top: 0px;
+  }
+
+  100% {
+    margin-top: -270px;
+  }
+  /* Keyframe values are not changed as they seem correct */
+}

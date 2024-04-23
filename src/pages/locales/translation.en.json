@@ -1,0 +1,353 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "blogs": "Blogs",
+    "elearning": "E-Learning",
+    "businessPlanGenerator": "Business Plan Generator",
+    "brandText": "Entrepreneur Toolkit",
+    "darkMode": "Dark Mode",
+    "welcome": "Welcome",
+    "signOut": "Sign Out"
+  },
+  "homepage": {
+    "welcome": "Welcome to ",
+    "welcome2": "Entrepreneur Toolkit",
+    "slogan": "Where ideas thrive and tools empower.",
+    "getStarted": "Get Started!",
+    "features": "Features",
+    "featuresHeading": "Explore Our",
+    "featuresHeading2": "Features",
+    "blogs": {
+      "title": "Blogs",
+      "description": "Explore informative articles and stay updated on the latest trends. Get motivated by reading success stories of entrepreneurs. You can also contribute your own blog to inspire others."
+    },
+    "businessPlanGenerator": {
+      "title": "Business Plan Generator",
+      "description": "Generate professional business plans tailored to your needs. Simply provide information about your business, such as goals, target audience, and products/services, and we'll generate a customized plan for you. You can also customize the plan with colors and fonts."
+    },
+    "elearning": {
+      "title": "E-Learning",
+      "description": "Access our comprehensive online learning platform for skill development. Learn step-by-step how to build and grow your own business. Our courses cover various topics including entrepreneurship, marketing, finance, and more."
+    },
+    "aboutUs": "About Us",
+    "aboutUsHeading": "Explore More ",
+    "aboutUsHeading2": "About Us",
+    "aboutUsContent": "Empower aspiring entrepreneurs to succeed with comprehensive tools and resources. Our platform provides access to expert advice, interactive workshops, and personalized support, enabling entrepreneurs to gain the knowledge and skills needed to navigate the challenges of starting and growing a business.",
+    "aboutUsContent2": "Foster innovation, creativity, and collaboration within our community. We believe in the power of collaboration and knowledge sharing. Our platform facilitates networking opportunities, idea exchange forums, and collaborative projects, creating a dynamic ecosystem where entrepreneurs can learn from each other and thrive together.",
+    "aboutUsContent3": "Dedicated team committed to facilitating positive change through entrepreneurship. Our team consists of experienced professionals passionate about supporting entrepreneurs on their journey to success. We are dedicated to providing exceptional service, tailored guidance, and continuous improvement to ensure our platform meets the evolving needs of our users.",
+    "contact": "Contact",
+    "contactUs":"Us"
+  },
+  "contact": {
+    "contact": "Contact Form",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email Address",
+    "enterFirstName": "Enter your first name",
+    "enterLastName": "Enter your last name",
+    "enterPhoneNumber": "Enter your phone number",
+    "enterEmail": "Enter your email address",
+    "enterQuery": "Enter your query",
+    "enterYourQuery": "Enter your query here...",
+    "submit": "Submit",
+    "dataStored": "Data stored!",
+    "storeDataFailed": "Failed to store data.",
+    "fillAllFields": "Please fill all fields."
+  },
+  "aboutPage": {
+    "aboutUsHeading": "About Us",
+    "businessPlanTitle": "Business Plan",
+    "businessPlanDescription": "Your roadmap to success. Develop a comprehensive business plan to guide your entrepreneurial journey. Your business plan should include sections such as executive summary, market analysis, business model, marketing strategy, financial projections, and more. Remember, a well-crafted business plan will help you attract investors, secure financing, and stay focused on your goals.",
+    "missionTitle": "Mission",
+    "missionDescription": "Our mission is to empower entrepreneurs by providing them with the tools, resources, and support they need to turn their ideas into successful businesses. We believe in fostering innovation, creativity, and collaboration to drive positive change in the world through entrepreneurship. Join us on our mission to empower the next generation of visionary entrepreneurs and change-makers.",
+    "visionTitle": "Vision",
+    "visionDescription": "Our vision is to create a vibrant ecosystem where every entrepreneur has the opportunity to thrive and succeed. We envision a world where entrepreneurship is celebrated, supported, and accessible to all, regardless of background or circumstance. Together, let's build a future where entrepreneurship is a catalyst for positive change and sustainable growth."
+  },
+
+  "elearning": {
+    "title": "E-Learning",
+    "videoCountLabel": "Videos",
+    "videosLabel": "Videos",
+    "sections": {
+      "section1": {
+        "title": "Plan",
+        "description": "Learn how to plan your business strategy.",
+        "videos": {
+          "video1": {
+            "title": "How to Write a Business Plan",
+            "duration": "(0 minutes 31 seconds)"
+          },
+          "video2": {
+            "title": "Start Your Plan",
+            "duration": "(0 minutes 34 seconds)"
+          },
+          "video3": {
+            "title": "Business Plan Blueprint",
+            "duration": "(0 minutes 38 seconds)"
+          },
+          "video4": {
+            "title": "Components of a Plan",
+            "duration": "(0 minutes 17 seconds)"
+          },
+          "video5": {
+            "title": "Your Audience",
+            "duration": "(1 minute 56 seconds)"
+          },
+          "video6": {
+            "title": "Categories of Business Plans",
+            "duration": "(1 minute 28 seconds)"
+          },
+          "video7": {
+            "title": "One Size Does Not Fit All",
+            "duration": "(6 minutes 39 seconds)"
+          },
+          "video8": {
+            "title": "Creating Your Plan",
+            "duration": "(0 minutes 50 seconds)"
+          },
+          "video9": {
+            "title": "Business Plan Questions",
+            "duration": "(0 minutes 29 seconds)"
+          },
+          "video10": {
+            "title": "Your Company Descriptions",
+            "duration": "(03 minutes 57 seconds)"
+          }
+        }
+      },
+      "section2": {
+        "title": "Launch",
+        "description": "Discover the key steps for a successful product launch.",
+        "videos": {
+          "video11": {
+            "title": "Financing Your Business",
+            "duration": "(1 minute 14 seconds)"
+          },
+          "video12": {
+            "title": "Your Financial Needs",
+            "duration": "(1 minute 39 seconds)"
+          },
+          "video13": {
+            "title": "Estimating Startups Cost",
+            "duration": "(2 minutes 55 seconds)"
+          },
+          "video14": {
+            "title": "Loan",
+            "duration": "(4 minutes 37 seconds)"
+          },
+          "video15": {
+            "title": "Crowd Funding",
+            "duration": "(1 minute 31 seconds)"
+          }
+        }
+      },
+      "section3": {
+        "title": "Manage",
+        "description": "Explore effective management techniques.",
+        "videos": {
+          "video16": {
+            "title": "Understanding Your Customer Overview",
+            "duration": "(1 minute 50 seconds)"
+          },
+          "video17": {
+            "title": "Identifying Customers and Their Needs",
+            "duration": "(0 minutes 23 seconds)"
+          },
+          "video18": {
+            "title": "Market Research Data",
+            "duration": "(2 minutes 18 seconds)"
+          },
+          "video19": {
+            "title": "Track Customer Experiences",
+            "duration": "(1 minute 34 seconds)"
+          },
+          "video20": {
+            "title": "Understand Customer Intent",
+            "duration": "(2 minutes 37 seconds)"
+          },
+          "video21": {
+            "title": "Sales Planning",
+            "duration": "(1 minute 59 seconds)"
+          }
+        }
+      },
+      "section4": {
+        "title": "Market",
+        "description": "Learn about marketing strategies and tactics.",
+        "videos": {
+          "video22": {
+            "title": "Market Research Overview",
+            "duration": "(2 minutes 0 seconds)"
+          },
+          "video23": {
+            "title": "Benefits of Market Research",
+            "duration": "(0 minutes 51 seconds)"
+          },
+          "video24": {
+            "title": "Understanding Market Research",
+            "duration": "(2 minutes 57 seconds)"
+          },
+          "video25": {
+            "title": "Create a Questionnaire",
+            "duration": "(0 minutes 57 seconds)"
+          },
+          "video26": {
+            "title": "Data Analysis",
+            "duration": "(2 minutes 38 seconds)"
+          },
+          "video27": {
+            "title": "Marketing Plan",
+            "duration": "(0 minutes 40 seconds)"
+          },
+          "video28": {
+            "title": "Using Social Media",
+            "duration": "(2 minutes 09 seconds)"
+          }
+        }
+      },
+      "section5": {
+        "title": "Grow",
+        "description": "Strategies for scaling and growing your business.",
+        "videos": {
+          "video29": {
+            "title": "Finding and Attracting Investors",
+            "duration": "(1 minute 43 seconds)"
+          },
+          "video30": {
+            "title": "Outside Financing",
+            "duration": "(0 minutes 55 seconds)"
+          },
+          "video31": {
+            "title": "Investors",
+            "duration": "(3 minutes 18 seconds)"
+          },
+          "video32": {
+            "title": "Investment Process",
+            "duration": "(1 minute 04 seconds)"
+          },
+          "video33": {
+            "title": "Crowd-Funding for Equity",
+            "duration": "(1 minute 03 seconds)"
+          },
+          "video34": {
+            "title": "Intro to Pricing",
+            "duration": "(1 minute 32 seconds)"
+          },
+          "video35": {
+            "title": "Your Pricing Model",
+            "duration": "(1 minute 22 seconds)"
+          }
+        }
+      }
+    }
+  },
+
+  "videoList": {
+    "noSectionData": "No section data available.",
+    "totalVideos": "Total Videos"
+  },
+  "videoPlayer": {
+    "title": "Feedback Form",
+    "rateSection": "Rate this section:",
+    "feedback": "Feedback:",
+    "enterFeedback": "Enter your feedback",
+    "close": "Close",
+    "submitFeedback": "Submit Feedback",
+    "giveFeedback": "Give Feedback",
+    "thankYouFeedback": "Thank you for your feedback!",
+    "noVideoFound": "No video found.",
+    "duration": "Duration",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "businessPlanGenerator": {
+    "title": "Business Plan Generator",
+    "executiveSummary": "Executive Summary",
+    "companyName": "Company Name",
+    "productsAndServices": "Products and Services",
+    "managementTeam": "Management Team",
+    "marketingAnalysis": "Marketing Analysis",
+    "financialPlan": "Financial Plan",
+    "operationalPlan": "Operational Plan",
+    "selectFont": "Select Font",
+    "generatePlan": "Generate Business Plan",
+    "placeholder": "Please enter {{fieldName}}"
+  },
+  "colors": {
+    "mainCardColor": "Main Card Color: ",
+    "otherCardColor": "Other Cards Color: "
+  },
+
+  "generatedPlan": {
+    "businessPlan": "Business Plan",
+    "executiveSummary": "Executive Summary",
+    "companyName": "Company Name",
+    "productsServices": "Products and Services",
+    "managementTeam": "Management Team",
+    "marketingAnalysis": "Marketing Analysis",
+    "FinancialPlan": "Financial Plan",
+    "operationalPlan": "Operational Plan",
+
+    "alertMessage": "PDF downloaded successfully!",
+    "downloadButton": "Download PDF"
+  },
+
+  "blogPage": {
+    "title": "Entrepreneur's Toolkit",
+    "welcome": "Welcome To ",
+    "blogPage": "Our Blog Page",
+    "toolkit": "Entrepreneur's Toolkit",
+    "ultimate": "The ultimate, ",
+    "guide": "your guide to success in business",
+    "resource": "your go-to resource for navigating, strategizing, and achieving success in business.",
+    "companion": "your essential companion for entrepreneurial growth, strategic planning, and business triumphs.",
+    "blogs": {
+      "b": "Indian Startups and their Entrepreneurs",
+      "span": "\"Success Stories At Your Tip\"",
+      "blog1": {
+        "bold": "Entrepreneur's Toolkit",
+        "p": "comprises essential elements to foster a comprehensive and user-centric experience on our website. With a responsive chatbot at its core, users receive instant support and guidance, enhancing their navigation. The inclusion of a language translator ensures a global audience can seamlessly access our content, transcending linguistic barriers. Augmenting this, our educational resources within the toolkit provide users with valuable insights and learning opportunities, enriching their engagement with our platform. In essence, Entrepreneur's Toolkit forms the backbone of our commitment to delivering an interactive, informative, and globally accessible online environment."
+      },
+      "blog2": {
+        "bold": "Aman Gupta",
+        "p": "is indeed one of the founders of boAt Lifestyle, a consumer electronics brand primarily known for its audio products such as earphones, headphones, speakers, and wearable devices. Along with co-founder Sameer Mehta, Aman Gupta established boAt in 2015. boAt has gained significant popularity in India and abroad for its stylish and affordable audio accessories. The brand has capitalized on the growing demand for quality audio products, especially among the youth demographic. Under Aman Gupta's leadership, boAt has expanded its product range and market presence, becoming one of the leading audio brands in India. The company has also engaged in various marketing initiatives, including partnerships with celebrities and influencers, to further enhance its brand visibility."
+      },
+      "blog3": {
+        "bold": "Vijay Shekhar Sharma",
+        "p": "is the founder of Paytm. He founded Paytm (originally \"Pay Through Mobile\") in 2010. Paytm started as a mobile recharge and utility bill payment platform but later expanded into a full-fledged digital payments and financial services company.Under Vijay Shekhar Sharma's leadership, Paytm has grown to become one of India's leading digital payment platforms, offering a wide range of services including mobile recharges, bill payments, online shopping, ticket bookings, wealth management, and banking services through its subsidiary, Paytm Payments Bank.Vijay Shekhar Sharma's vision and entrepreneurial spirit have been instrumental in Paytm's success and its evolution into a multifaceted fintech giant in India."
+      },
+      "blog4": {
+        "bold": "Vidit Aatrey",
+        "p": "is an Indian entrepreneur and the co-founder of Meesho, a social commerce platform. He graduated from the Indian Institute of Technology (IIT) Delhi with a degree in Electrical Engineering. Prior to founding Meesho in 2015, Aatrey worked as a Software Development Engineer at InMobi, a global mobile advertising technology company. As the co-founder and CEO of Meesho, Vidit Aatrey has played a pivotal role in shaping the company's growth and strategy. Meesho has become one of the leading social commerce platforms in India, empowering millions of small businesses and individuals to start their online stores and sell products through social media platforms.Under Aatrey's leadership, Meesho has raised significant funding from prominent investors and has expanded its user base and product offerings. His entrepreneurial journey and vision for Meesho have garnered attention in India's startup ecosystem, and he continues to drive innovation and growth within the company."
+      },
+      "blog5": {
+        "bold": "Bhavish Agarwal",
+        "p": "is an Indian entrepreneur and the co-founder of Ola, one of the leading ride-hailing companies in India. He was born on August 28, 1985, in Ludhiana, Punjab, India. Bhavish Aggarwal co-founded Ola in December 2010 along with Ankit Bhati. Under Bhavish Aggarwal's leadership, Ola has grown to become a major player in the transportation and mobility sector in India. Ola offers a range of services, including cab booking, auto-rickshaws, bike-sharing, and more. The company has expanded its operations not only within India but also in various international markets. Bhavish Aggarwal is known for his entrepreneurial vision and efforts to transform the way people commute in India. He has played a crucial role in shaping Ola's strategy and expanding its services to cater to diverse transportation needs. As of my last knowledge update in January 2022, Bhavish Aggarwal continues to serve as the CEO of Ola."
+      },
+      "blog6": {
+        "bold": "Aadithyan Rajesh",
+        "p": "another youthful Indian business person, made his most memorable versatile application at nine years old. He used to make logos and site interfaces as a leisure activity before beginning his firm, Trinet Solutions. Slowly, he started coding and delivering games, and he made his most memorable programming, ‘Ashirwad,’ which is an internet browser similar to Google Chrome. The application was made in Android Studio and distributed in the Aptoide store. Rajesh is a fruitful YouTuber as well as running his own IT organization. He runs the channel ‘A Craze,’ where he posts video blogs on innovation, coding, gaming, and website architecture"
+      }
+    }
+  },
+
+  "footer": {
+    "toolkit": "Entrepreneur's Toolkit",
+    "resource": "Your go-to toolkit for success in business and innovation. Navigate the world of entrepreneurship with our comprehensive toolkit at your fingertips.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "blogs": "Blogs",
+    "contactInfo": "Contact Us",
+    "phoneNumber": "9769521161",
+    "email": "siddhiauti123@gmail.com",
+    "location": "Mumbai",
+    "businessForums": "Business Forums",
+    "entrepreneurSubreddit": "Entrepreneur Subreddit",
+    "smallBusinessForums": "Small Business Forums",
+    "warriorForum": "Warrior Forum"
+  }
+}

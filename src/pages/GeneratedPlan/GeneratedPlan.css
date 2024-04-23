@@ -1,0 +1,19 @@
+.download-pdf-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #007880;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.download-pdf-btn:hover {
+  background-color: #468f94;
+}
+
+.editable-content:focus {
+  outline: none;
+}

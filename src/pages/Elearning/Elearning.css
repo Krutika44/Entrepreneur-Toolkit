@@ -1,0 +1,19 @@
+/*elearning.js*/
+.elearning-card {
+  min-height: min-content;
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.elearning-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.elearning-card img {
+  outline: 2px solid #e0e1e2; /* Change the color as needed */
+}

@@ -1,0 +1,125 @@
+.prevbutton {
+  background-color: #007880;
+  color: #ffffff;
+  width: 100px;
+  height: 40px;
+  transition: background-color 0.3s;
+  border: none;
+  border-radius: 3px;
+}
+
+.prevbutton:hover {
+  background-color: #468f94;
+}
+.nextbutton {
+  background-color: #007880;
+  color: #ffffff;
+  width: 100px;
+  height: 40px;
+  transition: background-color 0.3s;
+  border: none;
+  border-radius: 3px;
+  margin-left: 470px;
+}
+
+.nextbutton:hover {
+  background-color: #468f94;
+}
+
+.justify-content-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gfeedback {
+  background-color: #007880;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  transition: background-color 0.3s;
+  border: none;
+  border-radius: 3px;
+}
+
+.gfeedback:hover {
+  background-color: #468f94;
+}
+
+/*feedback form*/
+.closebtn,
+.sfeedbackbtn {
+  background-color: #007880;
+  color: #ffffff;
+  width: 150px;
+  height: 40px;
+  transition: background-color 0.3s;
+  border: none;
+  border-radius: 3px;
+}
+.closebtn,
+.sfeedbackbtn:hover {
+  background-color: #468f94;
+}
+
+.feedback-textarea {
+  margin-top: -25px;
+}
+
+.dark-theme {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* White text color */
+}
+
+.dark-theme .modal-header {
+  background-color: #222; /* Dark background color for modal header */
+  border-bottom: 1px solid #444; /* Dark border color */
+  color: #fff; /* White text color */
+}
+
+.dark-theme .modal-body {
+  background-color: #333; /* Dark background color for modal body */
+  color: #fff; /* White text color */
+}
+
+.dark-theme .modal-footer {
+  background-color: #222; /* Dark background color for modal footer */
+  border-top: 1px solid #444; /* Dark border color */
+}
+
+.dark-theme .form-control {
+  background-color: #444; /* Dark background color for form controls */
+  color: #fff; /* White text color */
+  border-color: #888; /* Dark border color */
+}
+
+.dark-theme .form-control:focus {
+  border-color: #aaa; /* Dark border color for focused form controls */
+}
+.dark-theme .form-control::placeholder {
+  color: #fff; /* White placeholder color */
+}
+
+.dark-theme .btn-primary {
+  background-color: #007bff; /* Primary button color for dark theme */
+  border-color: #007bff; /* Button border color */
+}
+
+.dark-theme .btn-primary:hover {
+  background-color: #0056b3; /* Hover color for primary button */
+  border-color: #0056b3; /* Hover border color for primary button */
+}
+
+.dark-theme .alert {
+  background-color: #343a40; /* Dark background color for alerts */
+  color: #fff; /* White text color for alerts */
+  border-color: #23272b; /* Dark border color for alerts */
+}
+
+.dark-theme .alert-success {
+  background-color: #97f0ac; /* Success alert background color */
+}
+
+.dark-theme .alert-success .close {
+  color: #fff; /* White color for close button in success alert */
+}

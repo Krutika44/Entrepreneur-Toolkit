@@ -1,0 +1,173 @@
+body {
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.Footer {
+  padding: 1.5rem 0;
+  background: #2b7185;
+  color: #fff;
+  margin-bottom: 4px !important;
+  padding-bottom: 0rem !important;
+}
+
+.ft-1 p {
+  color: #fff !important;
+  font-size: 16px;
+}
+
+/* Quick Links section */
+.ft-2 {
+  padding-left: 20px; /* Reset padding */
+}
+
+.ft-2 h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.ft-2 ul {
+  list-style: none;
+  padding-left: 0; /* Reset padding */
+  font-weight: 100;
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+.ft-2 ul li {
+  padding: 0.35rem 0;
+  font-weight: 100;
+  font-size: 17px;
+  padding: 10px;
+}
+
+.ft-2 ul a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.ft-2 ul a:hover {
+  color: #81a9ca;
+  font-size: 1.06rem;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.ft-3 {
+  padding-left: 0;
+}
+
+.ft-3 h5 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.ft-3 p {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.ft-4 {
+  padding-left: 0;
+}
+
+.ft-4 h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.ft-4 ul {
+  list-style: none;
+  padding-left: 0;
+  font-weight: 100;
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+.ft-4 ul li {
+  padding: 0.35rem 0;
+  font-weight: 100;
+  font-size: 17px;
+  padding: 10px;
+}
+
+.ft-4 ul a {
+  color: #fff; /* Adjust link color */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.ft-4 ul a:hover {
+  font-size: 1.06rem;
+  transition: 0.2s;
+  cursor: pointer;
+  color:black;
+}
+
+.ft-1 h3 {
+  font-weight: bold;
+  font-family: cursive !important;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.ft-2 h3 {
+  font-weight: bold;
+  font-family: cursive !important;
+  margin-bottom: 10px;
+  font-size: 20px;
+  padding-left: 150px;
+}
+
+.ft-2 ul li {
+  padding-left: 150px;
+  font-size: 20px;
+}
+
+.ft-3 h5 {
+  font-weight: bold;
+  font-family: cursive;
+  margin-bottom: 20px;
+  font-size: 20px;
+  padding-left: 80px;
+}
+
+.ft-3 p {
+  padding-left: 80px;
+  margin-bottom: 20px;
+}
+
+.ft-4 h3 {
+  font-weight: bold;
+  font-family: cursive;
+  margin-bottom: 10px;
+  font-size: 20px;
+  padding-left: 80px;
+}
+
+.ft-4 ul li {
+  padding-left: 80px;
+  margin-bottom: 5px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.footer-icons i {
+  padding: 0.4rem 0.5rem;
+  background: #2b7185;
+  font-size: 24px;
+  margin: 0 0.5rem;
+}
+
+.footer-icons i:hover {
+  padding: 0.4rem 0.5rem;
+  font-size: 24px;
+  margin: 0 0.5rem;
+  color: black;
+}
+
+li a{
+  text-decoration: none;
+  color:white;
+}
